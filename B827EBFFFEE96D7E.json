@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEE96D7E",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47,84892140,
+    "ref_longitude": 9,42976600,
+    "ref_altitude": 679,
+    "contact_email": "stpab@gmx.de",
+    "description": "Test GW Zussdorf"
+  }
+}
